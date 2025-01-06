@@ -1,1 +1,2 @@
 # Image-Caption-Generator-Using-RNN
+By leveraging deep learning, the system transforms images into descriptive captions using a Convolutional Neural Network (CNN) to extract visual features and a Long Short-Term Memory (LSTM) network to generate text. This seamless integration of computer vision and natural language processing enables the translation of visual content into meaningful language, with applications in accessibility, content automation, and advanced multimedia search tools.
